@@ -53,7 +53,7 @@ def genel_bitis_noktasi_olustur(kargo, db_sinifi, sema_sinifi):
         kayit = db.get_or_404(db_sinifi, id)
         kayit_bilgileri = request.json
         sema = sema_sinifi()
-        yeni_kargo = sema.load(kayit_bilgileri, instance=kargo, session=db.session)
+        yeni_kargo = sema.load(kayit_bilgileri, instance=kayit, session=db.session)
         db.session.commit()
         return sema.dump(yeni_kargo)
 

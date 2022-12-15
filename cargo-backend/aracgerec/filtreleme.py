@@ -34,4 +34,5 @@ def filtrele(db_sinifi):
                     sorgu = sorgu.filter(db_alani > deger[1:])
                 else:
                     sorgu = sorgu.filter(func.lower(db_alani) == talep_objesi[alan].lower())
+    return sorgu
 

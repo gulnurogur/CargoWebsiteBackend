@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4a32a22-7049-4fba-b024-67eae767e45b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/genel_bitis_noktalari.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aracgerec/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aracgerec/filtreleme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/kargo_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/kisi_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/export/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/export/ma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/export/semalar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/07aab36aeb23_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/bc61b56eaad6_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/genel_bitis_noktalari.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/genel_bitis_noktalari.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aracgerec/filtreleme.py" beforeDir="false" afterPath="$PROJECT_DIR$/aracgerec/filtreleme.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +92,9 @@
       <workItem from="1670858747910" duration="58000" />
       <workItem from="1670858823080" duration="12003000" />
       <workItem from="1670922710205" duration="2886000" />
+      <workItem from="1670950973662" duration="694000" />
+      <workItem from="1671091865874" duration="1024000" />
+      <workItem from="1671093008169" duration="998000" />
     </task>
     <servers />
   </component>
@@ -117,6 +109,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cargo_backend$cargo_backend.coverage" NAME="cargo-backend Coverage Results" MODIFIED="1670925287285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/cargo_backend$cargo_backend.coverage" NAME="cargo-backend Coverage Results" MODIFIED="1671093892341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
