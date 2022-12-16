@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d4a32a22-7049-4fba-b024-67eae767e45b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/genel_bitis_noktalari.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/genel_bitis_noktalari.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aracgerec/filtreleme.py" beforeDir="false" afterPath="$PROJECT_DIR$/aracgerec/filtreleme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +95,9 @@
       <workItem from="1670950973662" duration="694000" />
       <workItem from="1671091865874" duration="1024000" />
       <workItem from="1671093008169" duration="998000" />
+      <workItem from="1671095216966" duration="1106000" />
+      <workItem from="1671096512440" duration="615000" />
+      <workItem from="1671175526462" duration="945000" />
     </task>
     <servers />
   </component>
@@ -109,6 +112,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cargo_backend$cargo_backend.coverage" NAME="cargo-backend Coverage Results" MODIFIED="1671093892341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/cargo_backend$cargo_backend.coverage" NAME="cargo-backend Coverage Results" MODIFIED="1671175861536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
