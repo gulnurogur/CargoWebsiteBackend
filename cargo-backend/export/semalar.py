@@ -8,9 +8,11 @@ from .ma import ma
 class KisiSema(ma.SQLAlchemyAutoSchema):
     class Meta:
         model = Kisi
+        load_instance = True
 
 
 class KargoSema(ma.SQLAlchemyAutoSchema):
     class Meta:
         model = Kargo
         include_fk = True
+        load_instance = True
